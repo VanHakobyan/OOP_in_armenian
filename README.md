@@ -117,11 +117,14 @@ Class-ները կարող ենք դիտարկել որպես գաղափարնե�
 #### Օրինակ՝
 &emsp;Երբ ասում ենք ավտոմեքենա մենք կոնկրետ մեքենա չենք հասկանում այլ հասկանում ենք ընդհանուր գաղափարը: Այլ բան է երբ ասում ենք  <b>Mitsubishi Pajero iO 1.8 4WD 1999թ. բալագույն</b>, ապա հասկանում եմ, որ դա ընկերոջս ավտոմեքենան է, այսինքն կոնկրետ օբեկտ է ոչ թե գաղափար :  
 
+<hr>
+
+#### You can follow me 
 
 * <a href="https://www.linkedin.com/in/vanikhakobyan/">Linkedin</a>
 * <a href="https://github.com/vanhakobyan">GitHub</a>
 * <a href="https://codefights.com/profile/vanhakobyan">CodeFights</a>
 * <a href="https://www.sololearn.com/Profile/3163879">SoloLearn</a>
-* <a href="https://codetrace.io/users/VanHakobyan">CodeTrace</a>
 * <a href="https://gitlab.com/VanHakobyan">Gitlab</a>
+* <a href="https://codetrace.io/users/VanHakobyan">CodeTrace</a>
 
